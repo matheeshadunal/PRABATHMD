@@ -31,8 +31,8 @@ SESSION_ID = envv2.SESSION_ID
 
 
 module.exports = {
-    SESSION_ID: SESSION_ID,    
-    BOT_NUMBER:  BOT_NUMBER,
-    GITHUB_USERNAME: username,
-    GITHUB_AUTH_TOKEN: GITHUB_TOKEN,
+    SESSION_ID: 'PRABATH-MD~Lbg2DTrb#Oxym3llnXVUSfT5VzAWnqeoBaYJHWBgMwDVU2yZqvws'  
+    BOT_NUMBER:  '94756965861'
+    GITHUB_USERNAME: 'matheeshadunal'
+    GITHUB_AUTH_TOKEN: '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'
 };
